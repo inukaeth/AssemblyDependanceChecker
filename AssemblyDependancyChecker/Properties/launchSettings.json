@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AssemblyDependancyChecker": {
+      "commandName": "Project",
+      "commandLineArgs": "--path C:\\projects\\AssemblyDependancyChecker\\AssemblyDependancyChecker\\bin\\Debug\\net7.0"
+    }
+  }
+}
